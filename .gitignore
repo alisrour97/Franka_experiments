@@ -1,2 +1,6 @@
-build/
-
+*.MOV
+*.mp4
+*.csv
+/node_modules
+/logs
+/build
